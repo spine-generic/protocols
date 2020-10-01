@@ -1,5 +1,7 @@
 # protocols
 
+![alt text](spine_generic_overview.jpg)
+
 Acquisition protocols for quantitative MRI of the spinal cord. For more information, please visit the [spine generic website](https://spine-generic.readthedocs.io/). 
 
 The spine generic protocol is composed of the following sequences:
