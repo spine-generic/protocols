@@ -1,0 +1,1 @@
+This protocol has been created for VE11B stations. If you have VE11C, please use the VE11C protocol (not this one) as it is better maintained.

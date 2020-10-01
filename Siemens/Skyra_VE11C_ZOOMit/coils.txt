@@ -1,0 +1,2 @@
+Tested on: 64ch head/spine + spine matrix
+Compatible with: 20ch head + spine matrix
