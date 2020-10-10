@@ -18,4 +18,10 @@ The recommended protocol uses product sequences. However, some old software migh
 
 All importable files are already available for the three vendors (not just the pdf), and if cross-compatibility is broken between models, each file should be there (e.g., VB: .edx vs. VD/VE: .exar for Siemens). Parameters should not be manually copied, to avoid human mistakes. If you cannot import the protocol from the already-available files, please let us know by [opening an issue](https://github.com/spine-generic/protocols/issues).
 
+## Installation
+
+Select the [latest release](https://github.com/spine-generic/protocols/releases) and download the zip package containing all protocols and SOP. 
+
+## Notes
+
 Files were previously hosted on [OSF](https://osf.io/tt4z9/), so if you wish to access a version of the protocol older than 2020-10-01, please fetch it from there.
