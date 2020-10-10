@@ -1,4 +1,4 @@
-# protocols
+# Generic acquisition protocol for quantitative MRI of the spinal cord
 
 ![alt text](spine_generic_overview.jpg)
 
