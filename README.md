@@ -10,9 +10,9 @@ The spine generic protocol is composed of the following sequences:
 |----------------------|-------------------------------|----------------|-----------------------------------|
 | T1w (3D)             | BRAVO/IR-FSPGR                | T1TFE          | MPRAGE                            |
 | T2w (3D)             | CUBE                          | VISTA          | SPACE                             |
+| DWI (2D)             | SE-EPI with and without FOCUS | Zoom Diffusion | ep2d_diff with and without ZOOMit |
 | ME-GRE (2D)          | MERGE                         | mFFE           | GRE “medic”                       |
 | GRE-MT1/MT0/T1w (3D) | SPGR                          | FFE            | GRE                               |
-| DWI (2D)             | SE-EPI with and without FOCUS | Zoom Diffusion | ep2d_diff with and without ZOOMit |
 
 The recommended protocol uses product sequences. However, some old software might not have all up-to-date product sequences, and there could exist research sequences which are equivalent. When applicable, this information will be mentioned in the present document. 
 
