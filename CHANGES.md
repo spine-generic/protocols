@@ -1,5 +1,6 @@
 r20210225
 - Fixed Siemens Skyra protocol (https://github.com/spine-generic/protocols/issues/6)
+- Added Siemens Vida protocol
 
 r20201001
 - Philips DWI: Number of b=0 images: 3 --> 5
