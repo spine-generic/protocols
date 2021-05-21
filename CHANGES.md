@@ -1,3 +1,9 @@
+# r20210521
+- Removed the GE-FOCUS protocol because it had the following inconsistencies: 
+  - DWI: the scan was not gated
+  - The TR for the GRE-MT1/MT0 was 62ms instead of 35ms for the non-FOCUS protocol
+  - The protocol included an SNR sequence (which is irrelevant for most users)
+
 # r20210311
 - Added Siemens Vida protocol
 
