@@ -1,3 +1,6 @@
+# r20251122
+- Added Siemens CimaX_XA61 protocol
+
 # r20210521
 - Removed the GE-FOCUS protocol because it had the following inconsistencies: 
   - DWI: the scan was not gated
